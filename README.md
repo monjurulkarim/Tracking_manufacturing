@@ -2,4 +2,4 @@
 Object detection and tracking using Mask RCNN and temporal coherence
 
 
-![ezgif com-crop](https://user-images.githubusercontent.com/40798690/57577613-90592100-7440-11e9-8c80-2d1f05e2dbff.gif)
+![ezgif com-crop (1)](https://user-images.githubusercontent.com/40798690/57718148-4a6bab00-7642-11e9-9903-309df505b236.gif)
