@@ -11,8 +11,8 @@ The repository includes:
 * Jupyter notebook for detection
 * Evaluation file for precision, recall and F1-score
 
-### Getting Started
-* Install the required dependencies:
+## Getting Started
+* Install the required dependencies: (for reference see [how_to_install.pdf](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/how_to_install.pdf)
 
 > pip install -r requirements.txt
 
