@@ -13,5 +13,8 @@ The repository includes:
 
 ### Getting Started
 * Install the required dependencies:
+
+<html>
 <mark >pip install -r requirements.txt </mark> 
+  </html>
 
