@@ -14,4 +14,4 @@ The repository includes:
 ### Getting Started
 * Install the required dependencies:
 > pip install -r requirements.txt 
-other thing
+> other thing
