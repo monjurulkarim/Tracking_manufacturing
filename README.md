@@ -10,3 +10,7 @@ The repository includes:
 * Training code
 * Jupyter notebook for detection
 * Evaluation file for precision, recall and F1-score
+
+### Getting Started
+* Install the required dependencies:
+> pip install -r requirements.txt
