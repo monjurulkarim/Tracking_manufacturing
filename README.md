@@ -13,14 +13,12 @@ The repository includes:
 
 ## Getting Started
 * Install the required dependencies: (for reference see [how_to_install.pdf](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/how_to_install.pdf) )
-
-> pip install -r requirements.txt
-
 * [custom.py](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/custom.py) : this code is used for loading data and training the model
 * [Training.ipynb](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/Training.ipynb): loading the weight and calling the training function
 * [result_calculation.ipynb](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/result_calculation.ipynb): this code is used for detecting objects with or without temporal coherence. This also calculates precision, recall and f1-score of the model.
 * [mrcnn/visualize_frame_relation_4f.py](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/mrcnn/visualize_frame_relation_4f.py) : this code is used for visualizing the detected objects with mask.
 
+## Training on your dataset
 
 
 
