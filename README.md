@@ -20,5 +20,7 @@ The repository includes:
 
 ## Training on your dataset
 
+## Citation
+If you use this repository, please cite the following:
 
 
