@@ -23,4 +23,14 @@ The repository includes:
 ## Citation
 If you use this repository, please cite the following:
 
+~~~~
+@inproceedings{Kari1908region,
+  author ={Karim, Muhammad Monjurul and Doell, David and Lingard, Ravon and Yin, Zhaozheng and Leu, Ming and Qin, Ruwen},
+  title={A {Region-Based} Deep Learning Algorithm for Detecting and Tracking Objects
+  in Manufacturing Plants},
+  booktitle ={25th International Conference on Production Research 2019 (ICPR 2019)},
+  ADDRESS={Chicago, USA},
+  YEAR={2019}
+}
+~~~~
 
