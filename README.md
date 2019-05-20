@@ -21,7 +21,7 @@ The repository includes:
 ## Training on your dataset
 
 ## Citation
-If you use this repository, please cite the following:
+If you use this repository, please cite the following paper:
 
 ~~~~
 @inproceedings{Kari1908region,
