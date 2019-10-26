@@ -19,7 +19,7 @@ The repository includes:
 * [mrcnn/visualize_frame_relation_4f.py](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/mrcnn/visualize_frame_relation_4f.py) : this code is used for visualizing the detected objects with mask.
 
 ## Training on your dataset
-Use the [custom.py](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/custom.py) to set your number of classes and load the dataset (train, val) with annotation. For annotating the images COCO style image annotation tool, which are available online.
+Use the [custom.py](https://github.com/monjurulkarim/Tracking_manufacturing/blob/master/custom.py) to set your number of classes and load the dataset (train, val) with annotation. For annotating the images use COCO style image annotation tool, which are available online.
 
 ## Citation
 If you use this repository, please cite the following paper:
